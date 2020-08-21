@@ -127,9 +127,8 @@
 
 <a id="Huawei"></a>
 
- ## Huawei
+## Huawei
  
-
 
 #### Запуск приложения на устройствах с EMUI 8, 9 и 10 (Huawei P20, Huawei P20 Lite, Huawei Mate 10…)
 
